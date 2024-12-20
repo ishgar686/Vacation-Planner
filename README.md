@@ -3,3 +3,4 @@ This project utilizes the MERN stack to streamline trip planning process. I work
 
 * Technical Aspects *
 - Implementing HTML and CSS styling
+- Adding React components in Javascript
