@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #f9a857;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+    padding: 25px;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.title a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navButtons {
+    display: flex;
+    gap: 10px;
+}
+
+.navButtons a {
+    padding: 14px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
