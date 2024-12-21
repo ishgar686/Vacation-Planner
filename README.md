@@ -5,4 +5,3 @@ Technical Aspects:
 - Implementing HTML and CSS styling
 - Adding React and Express components in Javascript
 - Using MongoDB backend databases to store information
-- Deploying website using Vercel and Render
