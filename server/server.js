@@ -10,6 +10,10 @@ const server = express();
 server.use(cors());
 server.use(express.json());
 
+server.get('/', (req, res) => {
+    res.send('Welcome to the Vacation Planner API!');
+});
+
 // Mount /api onto our server
 server.use('/api', router);
 
